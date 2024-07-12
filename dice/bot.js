@@ -7,7 +7,7 @@ const opts = {
   },
   identity: {
     username: 'sebron',
-    password: 'oauth:9mm14afizqnmhpxvtmddogy1rl8dbp',
+    password: 'oauth:',
   },
   channels: [
     'sebron'
