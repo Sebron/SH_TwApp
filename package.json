@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Sebron/SH_TwApp#readme",
   "dependencies": {
+    "gjs": "^0.1.0",
     "tmi.js": "^1.8.5"
   }
 }
