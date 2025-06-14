@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "sw-twapp",
+        "title": "Splintered Humanity Bot Control",
         "width": 800,
         "height": 600
       }
